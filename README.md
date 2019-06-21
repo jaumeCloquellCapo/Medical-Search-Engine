@@ -1,8 +1,8 @@
 # Search egnine
-Este repositorio contiene un modelo base para generar el motor de búsqquedo con modelos predictivos
+Este repositorio contiene un ejemplo de modelo base para generar un motor de búsqueda con modelos predictivos
 
 ## Installation
-Se debe utilizar python3
+Se debe utilizar python3 junto con estas librerias:
 
 ```bash
 pip install sklearn
@@ -21,6 +21,10 @@ Contiene una función genérica para aplicar modelos supervisados y no supervisa
 
 ### tokenizer.py: 
 Contiene funciones genéricas de preprocesamiento y limpieza de los datos para posteriomente aplicar el modelo.
+
+### data.csv: 
+Contiene un dataset de especializaciones médicas para entrenar el modelo.
+
 
 ## Usage
 
