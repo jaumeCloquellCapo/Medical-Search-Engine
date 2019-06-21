@@ -1,4 +1,4 @@
-# Search egnine
+# Medical Search Engine
 Este repositorio contiene un ejemplo de modelo base para generar un motor de búsqueda con modelos predictivos
 
 ## Installation
